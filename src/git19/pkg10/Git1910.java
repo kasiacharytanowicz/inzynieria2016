@@ -15,5 +15,7 @@ public class Git1910 {
      */
     public static void main(String[] args) {
         System.out.println("Czesc piekna :) ");
+        
+        System.out.println("Magda pisze");
     }
 }
